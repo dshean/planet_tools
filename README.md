@@ -1,2 +1,2 @@
-# planet
-Utilities and libraries for Planet data
+# planet_tools
+Utilities and libraries for working with Planet image data
