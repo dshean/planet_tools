@@ -5,6 +5,14 @@ Utilities and libraries for working with Planet image data
 - `planet_ortho.sh` - orthorectify bands in Level 1B MS image and create RGB, NRG, NDVI
 - `planet_udm.py` - simple viewer for DN_udm or MS products
 
+## Example
+
+Sample output from planet_udm.py for Planet image over Mt. Rainier, WA:
+
+20170411_181913_0e0f_1B_AnalyticMS
+
+![Sample output](docs/planet_sample.jpg)
+
 ### Requirements 
 - [GDAL/OGR](http://www.gdal.org/)
 - [NumPy](http://www.numpy.org/)
