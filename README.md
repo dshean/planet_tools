@@ -7,11 +7,9 @@ Utilities and libraries for working with Planet image data
 
 ## Example
 
-Sample output from planet_udm.py for Planet image over Mt. Rainier, WA:
+Screenshot of output from planet_udm.py for Planet image over Mt. Rainier, WA: 20170411_181913_0e0f_1B_AnalyticMS
 
-20170411_181913_0e0f_1B_AnalyticMS
-
-![Sample output](docs/planet_sample.jpg)
+![Sample output](doc/planet_sample.jpg)
 
 ### Requirements 
 - [GDAL/OGR](http://www.gdal.org/)
